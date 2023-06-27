@@ -38,3 +38,8 @@ This comes in 2 parts. The insert and the tip. Fitting the insert initially can 
 The tricky bit is now done. You should never need to do this again unless something goes particularly wrong in the future.
 
 You can now print the tip file with the hole straight up using supports to ensure the base of the tip prints properly. Push the part onto the bearing until it is seated against the lip. You can do this again when it wears out, thereby only needing to replace the ball.
+
+
+# Disclaimer
+
+Anyone using the information or files supplied here does so at their own risk. I take no responsibility for any harm or injury caused by the use of the supplied data. Users of the data should do so only when they are confident that it is safe to do so. There are risks involved in using the cane tip such as (but not limited to) breakage of the cane tip leaving the user stranded or the cane tip not reacting in the way the user expects. I recommend practicing with the cane tip inside in a safe, well known environment before using it elsewhere. The cane tip should only be used by sufficiently trained or competent individuals. The cane tip has been designed to work with Ambutech hook stlye canes but is not affiliated with Ambutech in any way.
