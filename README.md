@@ -39,6 +39,18 @@ The tricky bit is now done. You should never need to do this again unless someth
 
 You can now print the tip file with the hole straight up using supports to ensure the base of the tip prints properly. Push the part onto the bearing until it is seated against the lip. You can do this again when it wears out, thereby only needing to replace the ball.
 
+## Changing the tip
+
+1. Gently pull on the old roller ball until you see the insert.
+1. Hold the insert so the two halves don't separate, tghis would mean the string would come free and the elastic would disappear inside the cane.
+1. Keep pulling until the string appears.
+1. Pull on the string until the white piece of plastic on the elastic is visible.
+1. Use this to grab keep the elastic in place while you change the tip.
+1. Using a string grip (or pair of pliers if needed), pull the insert away from the tip.
+1. If the bearing is left on the insert, make sure it is pushed into it's usual, fully seated position. otherwise use a screwdriver or similar to lever out the bearing from the tip and put it back onto the insert.
+1. Push the new tip onto the bearing, making sure it is fully seated.
+1. Slowly lower the whole assembly back into the cane, making sure the insert doesn't loose grip of the string.
+
 
 # Disclaimer
 
