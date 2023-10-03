@@ -21,36 +21,20 @@ This project aims to address these issues by making it easy to produce the cane 
 * A piece of string
 
 ## How to make it
-This comes in 2 parts. The insert and the tip. Fitting the insert initially can be a bit fiddly but should only need to be done once. The tip can then be reprinted over and over and fitted onto the bearing whenever it needs replacing.
+This comes in 3 parts. The insert, a washer and the tip. Fitting the insert initially can be a bit fiddly but should only need to be done once. The tip can then be reprinted over and over and fitted onto the bearing whenever it needs replacing.
 
 1. Print 2 copies of the insert. You'll want to slice this lying on the long flat face so the layer lines aren't going to shear with the force on the tip.
-1. Tie a loop in your string a few cm long.
-1. Remove the old cane tip.
-1. Pass the loop of string through the elastic in the cane, and then back through itself. This will secure the loop to the elastic.
-1. Pull on the elastic until you see a white piece of plastic pop out the end of the cane. This is to hold the elastic in place while you change the tip and goes back into the cane later.
-1. Place the string in the channel of one of the inserts with the knot in the larger area.
-1. Place the other part of the insert over the top of the string, sandwiching it in the channel with the knot in the void.
-1. Check that the string is secure and won't pull out of the inserts when it's held firmly together. If it's easy to pull out then you may need thicker string.
-1. Carefully lower the insert into the cane, allowing the bore of the cane to hold the pieces in place. This should mean the insert is held together with the string attached to the elastic, holding everything under tension.
-1. Push the bearing onto the tip of the insert, this can be quite tough so you may need to press it down against a hard surface to get it to fit in. This is by design as you don't want this falling off when it's in use.
+1. Print the washer. This is so the cane doesn't press directly onto the bearing and stop it from rotating freely.
+1. Print the tip. You can do this with the large flat surface face down. Use as many perimeters as you can, I use 12. The more the better as these are what will wear away as the cane is in use.
+1. Insert the bearing into the large hole in the tip. It will be tight, this is on purpose so it doesn't come off in use. You may have to use a vice or similar tool to push it hard enough, you may be able to do it by pressing hard against a hard surface.
+1. Push the 2 pieces of insert, back-to-back, through the bearing.
+1. Push the washer over the insert with the thicker side facing the bearing.
+1. Pull on the old cane tip until you see a white piece of plastic pop out the end of the cane. This is to hold the elastic in place while you change the tip and goes back into the cane later.
+1. Remove the old tip.
+1. Pass the string through the elastic in the cane, and then through the holes in the insert. Tie a knot so it forms a loop connecting the insert to the elastic. This will secure the bearing to the cane.
+1. Lower the new tip into the cane.
 
-
-The tricky bit is now done. You should never need to do this again unless something goes particularly wrong in the future.
-
-You can now print the tip file with the hole straight up using supports to ensure the base of the tip prints properly. Push the part onto the bearing until it is seated against the lip. You can do this again when it wears out, thereby only needing to replace the ball.
-
-## Changing the tip
-
-1. Gently pull on the old roller ball until you see the insert.
-1. Hold the insert so the two halves don't separate, tghis would mean the string would come free and the elastic would disappear inside the cane.
-1. Keep pulling until the string appears.
-1. Pull on the string until the white piece of plastic on the elastic is visible.
-1. Use this to grab keep the elastic in place while you change the tip.
-1. Using a string grip (or pair of pliers if needed), pull the insert away from the tip.
-1. If the bearing is left on the insert, make sure it is pushed into it's usual, fully seated position. otherwise use a screwdriver or similar to lever out the bearing from the tip and put it back onto the insert.
-1. Push the new tip onto the bearing, making sure it is fully seated.
-1. Slowly lower the whole assembly back into the cane, making sure the insert doesn't loose grip of the string.
-
+When you need to replace the tip, you can press a metal tool through the hole in the bottom of the tip in order to remove it from the bearing and press a new tip onto the bearing.
 
 # Disclaimer
 
